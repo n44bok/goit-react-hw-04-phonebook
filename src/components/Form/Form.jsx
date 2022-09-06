@@ -38,7 +38,7 @@ class Form extends Component {
                         />
                     </label>
                     <label className={styles.label}> 
-                        <span className={styles.label_title}>Number</span> 
+                        <span className={styles.label_title_number}>Number</span> 
                         <input
                             type="tel"
                             className={styles.input}
